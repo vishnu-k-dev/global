@@ -1,0 +1,9 @@
+# Never line-ending-convert or text-diff binary assets.
+# Two rewritten PDFs were auto-detected as text, which risks CRLF corruption on checkout.
+*.pdf  binary
+*.PDF  binary
+*.png  binary
+*.PNG  binary
+*.jpg  binary
+*.jpeg binary
+*.webp binary
