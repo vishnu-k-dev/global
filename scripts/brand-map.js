@@ -5,6 +5,7 @@
 module.exports = {
   "Addison_Price_List.pdf":                       "Addison",
   "Addison_Price_List_2.pdf":                     "Addison (Part 2)",
+  "Addison_Price_List_3.pdf":                     "Addison (Part 3)",
   "BAKER_PRICE_LIST.pdf":                         "Baker",
   "Carbotec Endmill Pricelist.pdf":               "CarboTec",
   "CP_GRATEX Pricelist.pdf":                      "CP Gratex",
