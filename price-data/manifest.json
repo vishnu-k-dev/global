@@ -100,5 +100,11 @@
     "brandName": "Tower Tools",
     "sourceFile": "Tower Price list.pdf",
     "extractedAt": "2026-06-09T16:48:27.118Z"
+  },
+  "addison-part-3": {
+    "hash": "513a60d455871b3ff573f19bb324bd57",
+    "brandName": "Addison (Part 3)",
+    "sourceFile": "Addison_Price_List_3.pdf",
+    "extractedAt": "2026-10-06T21:33:47.066Z"
   }
 }
