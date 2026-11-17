@@ -1,8 +1,8 @@
 {
   "brand": "Hittco",
   "sourceFile": "Hittco Price List.pdf",
-  "extractedAt": "2026-06-20T17:35:25.118Z",
-  "pageCount": 41,
+  "extractedAt": "2026-11-17T14:23:13.598Z",
+  "pageCount": 40,
   "pages": [
     {
       "page": 1,
@@ -162,10 +162,6 @@
     },
     {
       "page": 40,
-      "rows": []
-    },
-    {
-      "page": 41,
       "rows": []
     }
   ]
